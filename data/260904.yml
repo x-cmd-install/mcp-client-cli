@@ -7,7 +7,7 @@ about:
   head: 808972d
   archived: false
   latestVersion: v1.0.5
-  collectedAt: 2026-09-04T19:30:53Z
+  collectedAt: 2026-09-04T21:00:35Z
 timeline:
   created: 2024-11-27
   lastCommit: 2025-12-02
@@ -80,5 +80,33 @@ total:
   openIssue: 18
   commit: 113
 ---
+path: /home/runner/.x-repo/github.com/adhikasp/mcp-client-cli
+collectedAt: 2026-09-04T21:00:35Z
+loc:
+  Python:
+    code: 1460
+    comments: 39
+    blanks: 167
+    files: 10
+  Json:
+    code: 54
+    comments: 0
+    blanks: 0
+    files: 2
+  Toml:
+    code: 45
+    comments: 0
+    blanks: 4
+    files: 1
+  Markdown:
+    code: 0
+    comments: 249
+    blanks: 110
+    files: 3
+total:
+  code: 1729
+  comments: 297
+  blanks: 293
+  files: 16
 ---
 
