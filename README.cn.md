@@ -4,13 +4,24 @@
 
 A simple CLI to run LLM prompt and implement MCP client.
 
-![mcp-client-cli](https://repo.x-cmd.io/mcp-client-cli.svg)
+![mcp-client-cli](https://repo.x-cmd.io/mcp-client-cli.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install mcp-client-cli
 ```
+
+## 代码洞察
+
+合计: **1,559** 行代码（覆盖前 5 种语言、共 **16** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Python | 1,460 | 39 | 167 | 10 |
+| Json | 54 | 0 | 0 | 2 |
+| Toml | 45 | 0 | 4 | 1 |
+| Markdown | 0 | 249 | 110 | 3 |
 
 ## 源代码
 
@@ -21,7 +32,6 @@ x install mcp-client-cli
 
 - **最新版本**: `v1.0.5` (2025-12-02)
 - **最近提交**: 2025-12-02
-- **发布时间**: 2025-12-02T09:09:32Z
 
 ## 流行度
 
@@ -36,19 +46,11 @@ x install mcp-client-cli
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 1 | 0 | 0 | 0 |
 | 360d | 2025-09-15 | 1 | 0 | 1 | 1 | 2 | 4 |
-
-## 代码规模
-
-合计: **1,559** 行代码（覆盖前 5 种语言、共 **16** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Python | 1,460 | 39 | 167 | 10 |
-| Json | 54 | 0 | 0 | 2 |
-| Toml | 45 | 0 | 4 | 1 |
-| Markdown | 0 | 249 | 110 | 3 |
+| last720d | 2024-09-20 | 5 | 9 | 4 | 7 | 18 | 113 |
 
 ## 改进这些数据
 
@@ -59,4 +61,4 @@ mcp-client-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/in
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:09:01Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:54:20Z._
