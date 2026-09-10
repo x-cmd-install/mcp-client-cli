@@ -1,24 +1,62 @@
 # mcp-client-cli
 
+[中文版本](./README.cn.md)
+
 A simple CLI to run LLM prompt and implement MCP client.
 
-- **Upstream**: <https://github.com/adhikasp/mcp-client-cli>
-- **Homepage**: <>
-- **Latest release**: `v1.0.5` (2025-12-02)
-- **Last commit**: 2025-12-02
-- **License**: MIT
-- **Stars**: 677 · **Forks**: 84 · **Open issues**: 25 · **Contributors**: 5
+![mcp-client-cli](https://repo.x-cmd.io/mcp-client-cli.svg)
 
-## Installation
+## Install
 
 ```sh
 x install mcp-client-cli
 ```
 
-See <https://x-cmd.com/install/mcp-client-cli> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/adhikasp/mcp-client-cli>
+- **License**: MIT
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T19:23:54Z._
+- **Latest**: `v1.0.5` (2025-12-02)
+- **Last commit**: 2025-12-02
+- **Published**: 2025-12-02T09:09:32Z
+
+## Popularity
+
+- **Stars**: 677 · **Forks**: 84 · **Open issues**: 25 · **Contributors**: 5
+
+## Totals (cumulative)
+
+- **Releases**: 5 · **Merged PRs**: 9 · **Open PRs**: 4 · **Closed issues**: 7 · **Open issues**: 18 · **Commits**: 113
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 1 | 0 | 1 | 1 | 2 | 4 |
+
+## Code size
+
+Total: **1,559** lines of code across **16** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 1,460 | 39 | 167 | 10 |
+| Json | 54 | 0 | 0 | 2 |
+| Toml | 45 | 0 | 4 | 1 |
+| Markdown | 0 | 249 | 110 | 3 |
+
+## Improve this data
+
+Install metadata for mcp-client-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `mcp-client-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/mcp-client-cli.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T05:09:01Z._
