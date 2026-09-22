@@ -113,4 +113,3 @@ total:
 ---
 
 ---
-{"id":266650589,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDONVnUFM4P5MPd","tag_name":"v1.0.5","target_commitish":"master","name":"Release v1.0.5","draft":false,"immutable":false,"prerelease":false,"created_at":"2025-12-02T09:07:52Z","updated_at":"2025-12-02T09:09:32Z","published_at":"2025-12-02T09:09:32Z","assets":[],"body":"**Full Changelog**: https://github.com/adhikasp/mcp-client-cli/compare/v1.0.3...v1.0.5"}
