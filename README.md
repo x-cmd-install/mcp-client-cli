@@ -35,22 +35,22 @@ Total: **1,559** lines of code across **16** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 676 · **Forks**: 83 · **Open issues**: 25 · **Contributors**: 5
+- **Stars**: 675 · **Forks**: 82 · **Open issues**: 25 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 5 · **Merged PRs**: 9 · **Open PRs**: 5 · **Closed issues**: 7 · **Open issues**: 18 · **Commits**: 113
+- **Releases**: 5 · **Merged PRs**: 9 · **Open PRs**: 4 · **Closed issues**: 7 · **Open issues**: 18 · **Commits**: 113
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-12 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-08-13 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-05-15 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 360d | 2025-11-16 | 1 | 0 | 2 | 0 | 2 | 4 |
-| last720d | 2024-11-21 | 5 | 9 | 5 | 7 | 18 | 113 |
+| 30d | 2026-10-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-16 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 360d | 2025-11-17 | 1 | 0 | 1 | 0 | 2 | 4 |
+| last720d | 2024-11-22 | 5 | 9 | 4 | 7 | 18 | 113 |
 
 ## Improve this data
 
@@ -61,4 +61,4 @@ Install metadata for mcp-client-cli lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T06:49:08Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:01:49Z._
